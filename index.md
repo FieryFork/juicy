@@ -15,7 +15,7 @@ This is a website dedicated to documenting the juiciness of different pens.<br>
   <tbody>
     <tr>
       <td>Papermate Inkjoy Gel Pen</td>
-      <td>7</td>
+      <td>8</td>
     </tr>
     <tr>
       <td>Pilot G2 05</td>
